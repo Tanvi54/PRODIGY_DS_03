@@ -55,12 +55,6 @@ To predict whether a customer will make **more than one purchase** (repeat buyer
 
 ---
 
-## 📊 Visualization Example
-
-### Top 10 Feature Importances:
-![Feature Importance](path_to_feature_importance_plot.png)
-
----
 
 ## 🛠️ Tech Stack
 - **Python**
